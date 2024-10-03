@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ### DOCKER
 
 # Create Docker Image
@@ -152,4 +151,3 @@ Environment variables can be used to configure the behavior of Docker and its co
 1. Docker Swarm: Native clustering and orchestration tool for Docker.
 2. Kubernetes: Container orchestration platform compatible with Docker.
 3. Docker Security: Best practices for securing Docker containers and environments.
->>>>>>> 51db714822fd58659d618ac2b98aa0ccd62ce6d6
